@@ -1,0 +1,2 @@
+# Description
+This is the prototype for a [Youtrack issue about supporting multiple receivers in extensions](https://youtrack.jetbrains.com/issue/KT-10468?_ga=2.133681294.1896838073.1644360460-1281154358.1640125203&_gac=1.183539284.1644150508.Cj0KCQiAgP6PBhDmARIsAPWMq6lBZ80b61DK9o1DFPun6oBGbj7cTGgIpCc7MZWG6CHfpIjV-kr2BE4aArN0EALw_wcB&_gl=1*1o04ti6*_ga*MTI4MTE1NDM1OC4xNjQwMTI1MjAz*_ga_0WQ2ZF5VGT*MTY0NDM2MDQ2MC43LjEuMTY0NDM2MDU5MC4w)
